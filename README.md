@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on tiny web projects for learning<br>🌱 I’m currently learning Vue 3 and then I'd like to see some C#
+🔭 I’m currently working on tiny web projects for learning<br>🌱 Trying to get my first IT job he
 
 
 ## 🌐 Socials:
