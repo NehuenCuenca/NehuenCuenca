@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/nehuen-cuenca/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://portfolio-astro-nc.netlify.app/" target="_blank">
+  <a href="https://nc-portfolio-v2.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linktree&label=&color=8934d9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
 </div>
